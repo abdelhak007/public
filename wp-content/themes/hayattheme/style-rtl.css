@@ -1,0 +1,22 @@
+/* RTL Stylesheet*/
+
+/* Imports */
+@import url("style.css");
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@400&display=swap");
+
+body {
+  direction: rtl;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+small,
+.logo {
+  font-family: "Changa", sans-serif;
+}
